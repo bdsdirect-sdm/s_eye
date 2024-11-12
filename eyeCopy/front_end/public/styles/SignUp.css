@@ -1,0 +1,46 @@
+.logo-img{
+    width: 312px;
+    height: 99px;
+}
+
+.left-side{
+    background: linear-gradient(to bottom, #43d79e 0%, #35c0e4 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 660px;
+}
+
+.right-side{
+    background: #FBFBFB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.for1{
+    border-radius: 8px; 
+    background: white;
+    padding: 2rem;
+    margin-left: 100px;
+    margin-right: 100px;
+    max-width: 600px;
+}
+
+.signup-button{
+    width: 100%;
+    margin-top: 20px;
+    position: relative;
+    background: #35c0e4;
+    border: none;
+}
+
+.login-link{
+    text-decoration: none;
+    color: #35c0e4;
+}
+
+.already-have{
+    margin-left:50px ; /* to be changed */
+}
